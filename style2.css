@@ -1,0 +1,79 @@
+
+.body {
+    background: #bdebaf;
+
+
+}
+
+.principal{
+    background: #97b627;
+    padding: 30px;
+	font-weight: bold;
+}
+
+#banner {
+	width:100%;
+}
+
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+
+
+.alunos {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+
+.quadro1 {
+	background: #757477;
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+    text-align: left;
+}
+
+.quadro2 {
+	background: #7752a1;
+    display: inline-block;
+	vertical-align: top;
+    width: 25%;
+	text-align: left
+}
+
+.quadro3 {
+	background: #722696;
+    display: inline-block;
+	vertical-align: top;
+	width: 24%;
+	text-align: left 
+}
+
+.quadro4{
+	background: #740b6e;
+    display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	text-align: left
+	}
+
+
+
